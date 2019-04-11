@@ -1,0 +1,4 @@
+export const AUTH_LOADING = "AUTH_LOADING";
+export const RESOURCE_LOADING = "RESOURCE_LOADING";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const GET_RESOURCE = "GET_RESOURCE";
